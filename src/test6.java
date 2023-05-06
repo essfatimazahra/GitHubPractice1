@@ -1,2 +1,2 @@
-public class(fatima){
+public class test6{
 }
